@@ -1,24 +1,25 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Hackathons you'll see me at!
+date: 20-11-07 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Another exciting announcement!
+Hackathons you'll see me at!
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+With this being my last year of college, I have a huge bucketlist of college hackathons I want to go to! After graduating, I won't be able to go as a participant anymore after this year, so I'm hoping to have a lot of fun this year!
 
-#### Hipster list
+#### Hackathon List
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>HackMIT</li>
+    <li>HackHarvard</li>
+    <li>ShellHacks</li>
+    <li>PennApps</li>
+    <li>More coming soon!</li>
 </ul>
 
 ---
