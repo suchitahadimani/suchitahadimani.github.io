@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hackathons you'll see me at!
-date: 20-11-07 16:11:00-0400
+date: 24-08-26 16:11:00-0400
 inline: false
 related_posts: false
 ---
