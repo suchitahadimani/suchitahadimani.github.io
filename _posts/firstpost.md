@@ -3,7 +3,7 @@ layout: post
 title: why i switched to a simple jekyll website 
 date: 2024-08-19 21:01:00
 description: 
-tags: opinion blog 
+tags: opinion blog formatting
 categories: intro
 thumbnail: assets/img/9.jpg
 ---
