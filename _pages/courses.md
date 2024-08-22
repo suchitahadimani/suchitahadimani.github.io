@@ -7,16 +7,16 @@ nav: true
 nav_order: 3
 ---
 
-### Here are my opinions of the courses I have taken while I was at George Mason. Might be helpful, might be random. Feel free to take a look!!
+Here are my opinions of the courses I have taken while I was at George Mason. Might be helpful, might be random. Feel free to take a look!!  
 
 
 
 ## Fall 2024
 About to start!
 
-#### SWE 660: Real-Time Embedded Systems  
-#### SWE 632: UI/UX Design  
-#### CS 655: Wireless and Mobile Computing  
+SWE 660: Real-Time Embedded Systems  
+SWE 632: UI/UX Design  
+CS 655: Wireless and Mobile Computing  
 
 
 ## Summer 2024
