@@ -2,7 +2,7 @@
 layout: page
 title: project tbd 2
 description: a project
-img: assets/img/3.jpg
+img: assets/img/12.jpg
 importance: 2
 category: hackathon
 related_publications: true
