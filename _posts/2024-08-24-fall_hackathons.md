@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Hackathons you'll see me at!
-date: 2024-08-26 16:11:00-0400
-inline: false
-related_posts: false
+title: Hackathons on Fall 2024 BucketList!
+date: 2024-08-19 21:01:00
+description: 
+tags: hackathon CS
+categories: hackathon
+thumbnail: assets/img/9.jpg
 ---
+
 With this being my last year of college, I have a huge bucketlist of college hackathons I want to go to! After graduating, I won't be able to go as a participant anymore after this year, so I'm hoping to have a lot of fun this year!
 
 #### Hackathon List
@@ -14,6 +17,10 @@ With this being my last year of college, I have a huge bucketlist of college hac
     <li>HackHarvard</li>
     <li>ShellHacks</li>
     <li>PennApps</li>
+    <li>Technica</li>
+    <li>HackPrinceton</li>
+    <li>HackOverflow</li>
     <li>More coming soon!</li>
 </ul>
+
 
