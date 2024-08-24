@@ -5,7 +5,7 @@ date: 2024-08-19 21:01:00
 description: 
 tags: opinion blog
 categories: personal
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/12.jpg
 ---
 
 1. Simple interface
