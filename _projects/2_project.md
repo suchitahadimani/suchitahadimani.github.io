@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project tbd 2
-description: a project with a background image and giscus comments
+description: a project
 img: assets/img/3.jpg
 importance: 2
 category: hackathon

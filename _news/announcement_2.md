@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hackathons you'll see me at!
-date: 24-08-26 16:11:00-0400
+date: 2024-08-26 16:11:00-0400
 inline: false
 related_posts: false
 ---
@@ -16,9 +16,4 @@ With this being my last year of college, I have a huge bucketlist of college hac
     <li>PennApps</li>
     <li>More coming soon!</li>
 </ul>
-
----
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
 

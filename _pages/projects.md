@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of things I've built.
 nav: true
 nav_order: 2
-display_categories: [personal, hackathon]
+display_categories: [personal, hackathon, graveyard]
 horizontal: false
 ---
 
