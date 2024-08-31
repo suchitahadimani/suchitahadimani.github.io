@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Judge me on my github commits (yes I have two accounts)
+description: Judge me on my github commits
 nav: true
 nav_order: 4
 ---

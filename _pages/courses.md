@@ -20,7 +20,7 @@ CS 655: Wireless and Mobile Computing
 
 
 ## Summer 2024
-Went back to India again, this time for 2 months. I traveled and toured a lot more than other summers and also got to experience a bit of normal life in India too. It completely changed me. It felt like I had finally got the reset I was looking for. After coming back from India, I prioritized myself. I started to exercise, eat healthy well-balanced meals, and sleep for 8 hours. I also took two online classes, which I hated during the trip, but am very glad I took because it reduced my tuition quite a bit. 
+Went back to India again, this time for 2 months. I traveled and toured a lot more than other summers and also got to experience a bit of normal life in India too. I took two online classes, which I hated during the trip, but am very glad I took because it reduced my tuition quite a bit. 
 
 ####  CS 550: Database Systems  
 Grade: A  
@@ -41,7 +41,7 @@ The professor was very nice. I talked to him for an hour while trying to show my
 
 
 ## Spring 2024
-This semester, I was tired. It felt like I had burnt out from being stressed (not sure if that’s a thing but that’s what it felt like). I just did my classes and kept moving towards my graduation. No matter what happened, I just wanted to complete that major milestone. I received my bachelor’s degree. 
+I received my bachelor’s degree. 
 
 #### CS 475: Concurrent and Distributed Systems  
 Grade: C  
@@ -98,13 +98,13 @@ Before I started I thought this class would focus on problem solving and buildin
 
 
 ## Fall 2023
-I was staying at home this semester. I learned to balance managing housework and cooking on top of school work, which proved to be a new set of challenges. I took 19 credits this semester (6 classes) but there were more CS classes this time. This semester, I was infected with a strong case of imposter syndrome and job anxiety.
+I was staying at home this semester. I learned to balance managing housework and cooking on top of school work, which proved to be a new type of challenge. I took 19 credits this semester (6 classes) but there were more CS classes this time.
 
 #### CS 321: Software Engineering  
 Grade: B  
 Difficulty: 3/5  
 Enjoyment: 1/5   
-Advice: Check rate my professor for this class especially :) Be prepared for a lot of writing.  
+Advice: Check rate my professor for this class :D Be prepared for a lot of writing.  
 
 This class had the potential to be fun/relevant/engaging. However, the professor I had it with made us do everything in Java, use class structures that he defined, and also build a product that he decided. It ended up feeling very restricted and I found it difficult to enjoy the class. The quizzes and tests were irritating, and I often relied on rote memorization to do the quizzes. There was a lot of documentation that we needed to do for SWE: activity/sequence diagrams, project updates, and sprints. The actual content did a decent job at teaching core SWE concepts, but I do wish we had more creative liberty in our project.
 
@@ -151,10 +151,10 @@ Boring class. Required attendance. Annoying final. Had to do a paper/presentatio
 
 
 ## Summer 2023
-I did BreakThroughTech’s AI summer program which I really enjoyed. Went to India after 5 years. Learned how to cook. I wish I had done more leetcode this summer.
+I did BreakThroughTech’s AI summer program which I really enjoyed. Went to India after 5 years. Learned how to cook. 
 
 ## Spring 2023
-By now, everything had sort of settled down. I had registered for 21 credits (7 classes) this semester in order to graduate early. My bad habits had caught up to me. I had completely stopped going to the gym, started eating junk food at the dining halls, and had no motivation to do very much. I had a little bit of energy at the beginning of the semester during which I recorded and posted my first youtube video, but that was pretty much it. I dropped out from 2 research projects and just focused on classes.
+By now, everything had sort of settled down. This semester marked when I started to get more serious about doing well in classes and schoolwork. Enjoyed my last semester on campus.
 
 #### CS 262 : Low Level Programming  
 Grade: A  
@@ -209,13 +209,15 @@ Very easy class. It’s taken by senior students mostly, so the teacher was very
 Grade: B  
 Difficulty: 3/5  
 Enjoyment: 5/5   
-Advice: Have fun while working on the case, it’s a lot more fun when you assume the role of an attorney instead of just being a student completing an assignment. If you’re interested in starting your own business, pay attention to the notes on patents and ethical software. While you don’t need it to start a business, it might help guide your decisions on getting a patent for your software or ensuring your company is ethical from a general sense. It is a lot of work, so be prepared to allocate enough time for this class, especially since it involves of reading and writing. This is from the reflection essay they made us write at the end of the course: “For future CS 306 students, I would like to say, "Don’t worry." Although looking at legal cases might seem intimidating, it is not as difficult as it looks. It is very similar to reading a scientific paper, except instead of reading science, you are reading about the law. The best way to get the most out of the early assignments is to really dive deep into the first case that you read. Read through it thoroughly and take note of where the most important information is located, such as which court it was presented at or who the defendants or plaintiffs are. Because, just as you typically skim through scientific papers to glean the most helpful information, you will have to do the same in court cases. However, in order to be able to effectively extract information, you must know where everything is located first. As for navigating Nexis Uni, I would highly recommend using the filters. For example, if you are looking for a certain type of court case that questions the constitutionality of a case, make sure you use the filters "cases" and "federal court" to ensure that you’re getting only the types of cases that you want. Then, use important keywords such as a certain statute that’s in the case or an issue that it is addressing, such as "segregation." And lastly, all the sherardization details tend to appear in a text box on the right-hand side of the case report. Use this tool to determine the validity of your case and if it sets a good precedent. I wish you the best of luck in your CS 306 journey!”
+Advice: Have fun while working on the case, it’s a lot more fun when you assume the role of an attorney instead of just being a student completing an assignment. If you’re interested in starting your own business, pay attention to the notes on patents and ethical software. While you don’t need it to start a business, it might help guide your decisions on getting a patent for your software or ensuring your company is ethical from a general sense. It is a lot of work, so be prepared to allocate enough time for this class, especially since it involves of reading and writing.  
+
+This is from the reflection essay they made us write at the end of the course: “For future CS 306 students, I would like to say, "Don’t worry." Although looking at legal cases might seem intimidating, it is not as difficult as it looks. It is very similar to reading a scientific paper, except instead of reading science, you are reading about the law. The best way to get the most out of the early assignments is to really dive deep into the first case that you read. Read through it thoroughly and take note of where the most important information is located, such as which court it was presented at or who the defendants or plaintiffs are. Because, just as you typically skim through scientific papers to glean the most helpful information, you will have to do the same in court cases. However, in order to be able to effectively extract information, you must know where everything is located first. As for navigating Nexis Uni, I would highly recommend using the filters. For example, if you are looking for a certain type of court case that questions the constitutionality of a case, make sure you use the filters "cases" and "federal court" to ensure that you’re getting only the types of cases that you want. Then, use important keywords such as a certain statute that’s in the case or an issue that it is addressing, such as "segregation." And lastly, all the sherardization details tend to appear in a text box on the right-hand side of the case report. Use this tool to determine the validity of your case and if it sets a good precedent. I wish you the best of luck in your CS 306 journey!”
 
 Very fun class! As you may have noticed, I am biased in favor of classes with group projects/discussions. I had fun pretending to be a public defendant, reading cases, interviewing clients, and defending my client, who crashed his school server by posting memes about his teachers. During the debate, I threw so many back-to-back objections on the side, and had an immensely good time watching them struggle to find faults in our client. We ended up winning the legal case, but lost the ethical case (it’s bad sport to crash your school’s servers it seems). I became friends with the other girl in my group, and we met up a lot to do the write-ups. The quizzes were annoying. though.
 
 ## Fall 2022
 
-This was my first semester in college and I think it was the most fun semester I’ve had so far at the time of writing. I stayed on campus this year after convincing my parents that it would be worth it despite living nearby. It was a good decision, and I liked it in terms of my social life and my sense of independence. I started going to the gym. I ate healthy foods in the dining hall (salads, sandwiches, milk, and no dessert :OO). I made a lot of new friends and had a huge friend group. This was also the first semester I began to slack off, procrastinate, and skip classes, a huge deviation from the way I was during high school. The temptations of constantly being with friends and the small ego boosts I got from doing assignments last minute and still performing better than the class average set up some bad habits which would end up hurting in the future. But … ignorance is bliss and the fall semester passed by wonderfully with lots of  school events, random trips, and midnight drives. 
+This was my first semester in college and I think it was the most fun semester I’ve had so far at the time of writing. I stayed on campus this year after convincing my parents that it would be worth it despite living nearby. It was a good decision, and I liked it in terms of my social life and my sense of independence. I started going to the gym. For this one semester, I ate healthy foods in the dining hall (salads, sandwiches, milk, and no dessert :OO). I made a lot of new friends. This was also the first semester I began to slack off and procrastinate, a huge deviation from the way I was during high school. The fall semester passed by wonderfully with lots of school events, random trips, and late night ventures. 
 
 #### CS 110 : Essentials of Computer Science  
 Grade: A  
@@ -255,12 +257,4 @@ Difficulty: 1/5
 Enjoyment: 2/5   
 Advice: Pay attention in this class, especially if you’re interested in AI/ML. Lots of very relevant concepts. You can try building models or simulations to integrate the concepts into your machine learning work to make the topics more engaging.  
 
-I did not attend this class after the first week as I didn't like the lecture style very much. I ended up reading from the textbook and learning the concepts on my own. There were 2 homework assignments which were very easy and the exams were all take-home, open-book, and very similar to the hw/textbook problems. Learned about binomial, hypergeometric, Poisson’s, normal, Gamma, Beta, and multinomial distributions.
-
-
-
-
-
-
-
-
+I did not attend this class after the first week as I didn't like the lecture style very much. I ended up reading from the textbook and learning the concepts on my own. There were 2 homework assignments which were very easy and the exams were all take-home, open-book, and very similar to the hw/textbook problems. Learned about binomial, hypergeometric, Poisson’s, normal, Gamma, Beta, and multinomial distributions.  
