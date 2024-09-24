@@ -7,7 +7,7 @@ tags: personal CS
 categories: personal
 ---
 
-Why a graveyard?
+Why a graveyard in the projects sections?
 
 It’s for all the projects that I started on, but lost interest mid-way through.
 
