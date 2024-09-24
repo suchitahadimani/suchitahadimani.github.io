@@ -8,15 +8,15 @@ category: hackathon
 related_publications: true
 ---
 
-PennApps XXV
+### PennApps XXV
 
-Devpost: https://devpost.com/software/khakiai 
+Devpost: [https://devpost.com/software/khakiai](https://devpost.com/software/khakiai )
 
 I had a lot of fun developing Khaki AI and this was my first hackathon win :))) 
 
 Here is the rough timeline of how we developed Khaki:
 
-Friday before the opening ceremony —- 
+##### Friday before the opening ceremony —- 
 
 Sahil and I got to check-in pretty early around 3pm. After checking in and getting our merch, we were mostly sitting around and brainstorming ideas. We were thinking of some real world problems that we could solve (global warming, poverty, the typical). Based on previous hackathons, we noticed that most winners aimed to solve actual problems. But all the ideas we came up with felt very lifeless and forced. 
 
@@ -32,7 +32,7 @@ Honestly, I was skeptical about using Suno AI as we had used it before at HackMI
 But we decided to go for it anyway.
 
 
-Friday evening —
+##### Friday evening —
 
 After the opening ceremony, we ate food, did some basic system design, figured out which tracks we wanted to apply for, and bumped into Leo, our 4th member. We were all wearing khaki pants when we met, so we decided to call our product KhakiAI.
 
@@ -128,20 +128,20 @@ We had to do some prompt engineering to figure out how to generate prompts to fe
 
  This was the following prompt we gave to llama: 
 
-"Analyze the provided position coordinates and timestamps from the pose data. Do NOT explain your thought process or give a filler introduction. Generate a concise prompt for a song, specifying the genre, topic, and beats per minute. Use the following coordinates data and if coordinates of body parts are changing more with shorter time intervals, the song should tend happier. If the coordinates change less, it should tend sadder. Give one complete sentence! {json_data}"
+> "Analyze the provided position coordinates and timestamps from the pose data. Do NOT explain your thought process or give a filler introduction. Generate a concise prompt for a song, specifying the genre, topic, and beats per minute. Use the following coordinates data and if coordinates of body parts are changing more with shorter time intervals, the song should tend happier. If the coordinates change less, it should tend sadder. Give one complete sentence! {json_data}"
 
 
 
 Based on the question above, we would receive prompts like this:
 
-“Write an upbeat dance song in the genre of electronic dance music (EDM) at 128 beats per minute, titled \"Vibrant Movement,\" with lyrics that capture the dynamic and energetic changes in body movements."
+> “Write an upbeat dance song in the genre of electronic dance music (EDM) at 128 beats per minute, titled \"Vibrant Movement \" with lyrics that capture the dynamic and energetic changes in body movements."
 
 
 We also spent some time figuring out Suno AI. Having launched less than a year ago, they have yet to develop a proper API documentation as their platform is mainly user-centric, and not for developers. We were able to figure out how to make the API calls using cookies, but ran out of credits before we could test more.
 
 We slept around 4 AM.
 
-Saturday —-
+##### Saturday ---
 
 Woke up around 10:30ish and got breakfast at 11 but we were still hungry so we went to Starbucks. We bumped into Naman from Tune AI there who gave us the news that Tune would natively support Cerebras which was crazy to hear (and probably meant everyone had done the same thing and used Cerebras through Tune).
 
@@ -161,18 +161,18 @@ Finished all our coding work at 7 AM and recorded our demo video by 9 and called
 
 
 
-Sunday —-
+##### Sunday —-
 
 There was a huge delay with the start of judging but we became friends with the neighboring groups in the judging room. Judging itself went pretty well. All the judges had a blast dancing and getting their custom songs.
 
 Went to grab lunch at this Indian restaurant which had food way too spicy for any of us.
 
-Closing Ceremony —
+##### Closing Ceremony —
 
 Won Most Creative Hack – will be getting an amazon echo pop :)) 
 
 
-System Design:
+##### System Design:
 
 {% include figure.liquid loading="eager" path="assets/img/khaki_sysdes.png" class="img-fluid rounded z-depth-1" %}
 
