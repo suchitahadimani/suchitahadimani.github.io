@@ -2,7 +2,7 @@
 layout: page
 title: Xpense
 description: Maximize your credit card rewards!
-img: assets/img/khakiai.jpg
+img: assets/img/xpense.jpg
 importance: 2
 category: hackathon
 related_publications: true
